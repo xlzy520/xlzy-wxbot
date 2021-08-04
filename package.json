@@ -1,0 +1,15 @@
+{
+  "name": "xlzy-wxbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wechaty": "^0.62.3",
+    "wechaty-web-panel": "^0.2.3"
+  }
+}
